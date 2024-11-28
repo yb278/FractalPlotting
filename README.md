@@ -7,7 +7,6 @@ Welcome to my **Fractal Plotting in Java** project! This repository documents my
 1. **Understand the Basics of Fractals**  
    Explore the mathematical concepts behind fractals, such as:
    - Mandelbrot sets
-   - Julia sets
    - Recursive patterns
 
 2. **Learn Java Graphics Programming**  
@@ -17,8 +16,7 @@ Welcome to my **Fractal Plotting in Java** project! This repository documents my
    Implement strategies to handle computational complexity and improve rendering performance.
 
 4. **Interactive Visualization**  
-   Enhance the project with features like zooming, color customization, and parameter tweaking for Julia sets.
-
+   Enhance the project with features like zooming and color customization
 ---
 
 ## Features
@@ -26,21 +24,12 @@ Welcome to my **Fractal Plotting in Java** project! This repository documents my
 - **Mandelbrot Set Renderer**  
   Generate and visualize the Mandelbrot set with customizable resolutions and color schemes.
 
-- **Julia Set Renderer**  
-  Explore different Julia sets by adjusting parameters interactively.
-
 - **Zoom Functionality**  
   Zoom into specific regions to discover the infinite details of fractals.
 
 - **Customizable Settings**  
   Change fractal parameters, such as iteration limits, escape thresholds, and color mappings.
 
----
-### Prerequisites
-
-- Java Development Kit (JDK) 8 or higher
-- IDE like IntelliJ IDEA, Eclipse, or Visual Studio Code
-- Basic understanding of Java programming
 ---
 
 ## How It Works

@@ -63,6 +63,3 @@ For each point \( c \) in the complex plane:
 - [Fractal Geometry by Benoit Mandelbrot](https://en.wikipedia.org/wiki/Benoit_Mandelbrot)
 - [Java Swing Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/swing/)
 - [Introduction to Fractals](https://mathworld.wolfram.com/Fractal.html)
-
-
-Feel free to tweak this to match your specific goals or preferences!
